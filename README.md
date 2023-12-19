@@ -11,10 +11,10 @@ I'm Prathibha Sithumini. I am a Student 👩‍🎓 , An Intern on UI/ UX design
 - 🌱 I’m currently study at SLIIT University  
 - 📫 How to reach me: [Portfolio](https://prathibhasithu.github.io/)
 
-<center> 
+<h1 align = "center"> 
   # Warmly Welcome ......!<br>
   <img src="giphy.gif" />
-</center>
+</h1>
 
 ## Skills :octocat:
   - 🖌️Illustrator<br>
