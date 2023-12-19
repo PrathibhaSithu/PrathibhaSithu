@@ -17,7 +17,7 @@ I'm Prathibha Sithumini. I am a Student 👩‍🎓 , An Intern on UI/ UX design
 </p>
 
 ## Skills :octocat:
-  -🖌️Illustrator
+  -🖌️Illustrator<br>
   -💻 HTML
   -💻 CSS
   -🖌️Figma
