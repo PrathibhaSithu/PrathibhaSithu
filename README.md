@@ -1,47 +1,36 @@
-<h1> Hi there 👋, I am Prathibha Sithumini </h1>
-<h2>I am UI / UX Designer and Front End Developer</h2> 
+# Hi there 👋, I am Prathibha
+# I am UI / UX Designer and Front End Developer :octocat:
 
 <img src ="new readme.png">
 
+## About me :octocat:
+
+I'm Prathibha Sithumini. I am a Student 👩‍🎓 , An Intern on UI/ UX designing 🧑‍🎨 and a mobile application designer and developer :heart:. And also a Coffee lover :coffee:. 
+<br>
+
+- 🌱 I’m currently study at SLIIT University  
+- 📫 How to reach me: [Portfolio](https://prathibhasithu.github.io/)
+
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  Warmly Welcome ......!<br>
+  <img src="giphy.gif" />
 </p>
 
-<h2>Skills :</h2> 
-<li>
-  <ul>🖌️Illustrator</ul>
-  <ul>💻 HTML</ul>
-  <ul>💻 CSS</ul>
-  <ul>🖌️Figma</ul>
-  <ul>📱 Kotlin</ul>
-  <ul>📱 Flutter</ul>
-  <ul>💻 JS</ul>
-  <ul>💻 MERN Stack</ul>
+## Skills :octocat:
+  -🖌️Illustrator
+  -💻 HTML
+  -💻 CSS
+  -🖌️Figma
+  -📱 Kotlin
+  -📱 Flutter
+  -💻 JS
+  -💻 MERN Stack
 </li>
 
-- 🌱 I’m currently learning In SLIIT University  
-- 📫 How to reach me: https://prathibhasithu.github.io/
- 
-
-## About me
-
-I'm Sagar Viradiya. A Google Developer Expert on Android. An Android Engineer at [DeliveryHero](https://www.deliveryhero.com/) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
-
-I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
-
-
-## Things I am passionate about
-
-- Android :robot:
-- Open source :octocat:
-
-## Get in touch :coffee:
-
-- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/viradiya_sagar).
-- Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@sagarviradiya).
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
-- And of course GitHub you're already on (Recursion).
+## :stuck_out_tongue: Let's Get in touch :coffee:
+- My virtul Designs [Dribbble](https://dribbble.com/Prathibha22).
+- Connect with me on [Linkedin](https://www.linkedin.com/in/prathibha-sithumini-74b427214/).
+- Hire me in Fiver [Fiver](http://www.fiverr.com/s/l1KAqR)
   
 
 
