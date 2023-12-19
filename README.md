@@ -1,4 +1,4 @@
-<hi> Hi there 👋, I am Prathibha Sithumini </h1>
+<h1> Hi there 👋, I am Prathibha Sithumini </h1>
 <h2>I am UI / UX Designer and Front End Developer</h2> 
 
 <img src ="new readme.png">
