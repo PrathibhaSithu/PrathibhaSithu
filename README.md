@@ -12,19 +12,19 @@ I'm Prathibha Sithumini. I am a Student 👩‍🎓 , An Intern on UI/ UX design
 - 📫 How to reach me: [Portfolio](https://prathibhasithu.github.io/)
 
 <p align="center"> 
-  Warmly Welcome ......!<br>
+  # Warmly Welcome ......!<br>
   <img src="giphy.gif" />
 </p>
 
 ## Skills :octocat:
   -🖌️Illustrator<br>
-  -💻 HTML
-  -💻 CSS
-  -🖌️Figma
-  -📱 Kotlin
-  -📱 Flutter
-  -💻 JS
-  -💻 MERN Stack
+  -💻 HTML<br>
+  -💻 CSS<br>
+  -🖌️Figma<br>
+  -📱 Kotlin<br>
+  -📱 Flutter<br>
+  -💻 JS<br>
+  -💻 MERN Stack<br>
 </li>
 
 ## :stuck_out_tongue: Let's Get in touch :coffee:
