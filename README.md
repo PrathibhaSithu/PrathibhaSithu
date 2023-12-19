@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Prathibha Sithumini
 #### I am UI / UX Designer and Front End Developer
-![I am UI / UX Designer and Front End Developer]
+
 <img src ="new readme.png">
 
 👋 Hello there! I'm  passionate in UI/UX and coding with a knack with my skills.
