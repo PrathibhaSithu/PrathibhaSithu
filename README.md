@@ -12,7 +12,8 @@ I'm Prathibha Sithumini. I am a Student 👩‍🎓 , An Intern on UI/ UX design
 - 📫 How to reach me: [Portfolio](https://prathibhasithu.github.io/)
 
 <h1 align = "center"> 
-  # Warmly Welcome ......!<br>
+  Warmly Welcome ......!<br>
+  
   <img src="giphy.gif" />
 </h1>
 
