@@ -1,4 +1,4 @@
-# Hi there 👋, I am Prathibha
+# Hi there 👋, I am Prathibha 😄😙
 # I am UI / UX Designer and Front End Developer :octocat:
 
 <img src ="new readme.png">
