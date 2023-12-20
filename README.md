@@ -1,7 +1,7 @@
+<img src ="new readme.png">
+
 # Hi there 👋, I am Prathibha 😄😙
 # I am UI / UX Designer and Front End Developer :octocat:
-
-<img src ="new readme.png">
 
 ## About me :octocat:
 
