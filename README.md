@@ -1,7 +1,7 @@
 <img src ="new readme.png">
 
-# <center>Hi there 👋, I am Prathibha 😄😙
-# I am UI / UX Designer and Front End Developer :octocat:</center>
+<h1 align = "center"> Hi there 👋, I am Prathibha 😄😙 </h1>
+<h2 align = "center"> I am UI / UX Designer and Front End Developer :octocat:</h2>
 
 ## About me :octocat:
 
