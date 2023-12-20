@@ -14,7 +14,7 @@ I'm Prathibha Sithumini. I am a Student 👩‍🎓 , An Intern on UI/ UX design
 <h1 align = "center"> 
   Warmly Welcome ......!<br>
 </h1>
-  <img align="right" src="giphy.gif" />
+  <img align="right" src="giphy.gif" width="400"/>
 
 ## Skills :octocat:
   - 🖌️Illustrator<br>
