@@ -35,8 +35,8 @@ I'm Prathibha Sithumini. I am a Student 👩‍🎓 , An Intern on UI/ UX design
 # :fire: My Stats :
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PrathibhaSithu&theme=dark" alt="GitHub Streak" /></a>
 
-  (https://github-readme-stats.vercel.app/api/top-langs/?username=PrathibhaSithu&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathibhaSithu&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  (https://github-readme-stats.vercel.app/api?username=PrathibhaSithu&theme=midnight-purple&show_icons=true)
+  ![Prathibha's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathibhaSithu&theme=midnight-purple&show_icons=true)
 
 
