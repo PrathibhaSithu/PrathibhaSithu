@@ -1,8 +1,6 @@
 <img src ="new readme.png">
 <hr/>
-<h1 align = "center"> 
-  Warmly Welcome ......!<br>
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&pause=1000&color=A700FF&vCenter=true&random=false&width=435&lines=Warmly+Welcome+%F0%9F%A7%99%E2%80%8D%E2%99%80%EF%B8%8F+" alt="Typing SVG" /></a>
 <h1 align = "center"> Hi there 👋, I am Prathibha 😄😙 </h1>
 <h2 align = "center"> I am UI / UX Designer and Front End Developer :octocat:</h2>
 
