@@ -1,6 +1,7 @@
 <img src ="new readme.png">
 <hr/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&pause=1000&color=A700FF&vCenter=true&random=false&width=440&lines=Warmly+Welcome.........!++%F0%9F%91%8B+" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=9100F7&random=false&width=435&lines=Warmly+Welcome........!+%F0%9F%91%8B+" alt="Typing SVG" /></a>
 
 <h1 align = "center"> Hi there 👋, I am Prathibha 😄😙 </h1>
 <h2 align = "center"> I am UI / UX Designer and Front End Developer :octocat:</h2>
