@@ -1,6 +1,8 @@
 <img src ="new readme.png">
 <hr/>
-
+<h1 align = "center"> 
+  Warmly Welcome ......!<br>
+</h1>
 <h1 align = "center"> Hi there 👋, I am Prathibha 😄😙 </h1>
 <h2 align = "center"> I am UI / UX Designer and Front End Developer :octocat:</h2>
 
@@ -12,9 +14,6 @@ I'm Prathibha Sithumini. I am a Student 👩‍🎓 , An Intern on UI/ UX design
 - 🌱 I’m currently study at SLIIT University  
 - 📫 How to reach me: [Portfolio](https://prathibhasithu.github.io/)
 
-<h1 align = "center"> 
-  Warmly Welcome ......!<br>
-</h1>
   <img align="right" src="giphy.gif" width="400"/>
 
 # Skills :octocat:
