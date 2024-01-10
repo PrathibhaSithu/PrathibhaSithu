@@ -34,7 +34,7 @@ I'm Prathibha Sithumini. I am a Student 👩‍🎓 , An Intern on UI/ UX design
 - Hire me in Fiver [Fiver](http://www.fiverr.com/s/l1KAqR)
 
 # :fire: My Stats :
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PrathibhaSithu&theme=dark" alt="GitHub Streak" /></a>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrathibhaSithu&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathibhaSithu&layout=compact&theme=midnight-purple)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
