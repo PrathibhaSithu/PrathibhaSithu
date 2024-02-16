@@ -40,6 +40,6 @@ I'm Prathibha Sithumini. I am a Student 👩‍🎓 , An Intern on UI/ UX design
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ![Prathibha's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathibhaSithu&theme=midnight-purple&show_icons=true)
 
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PrathibhaSithu" alt="My Trophy" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PrathibhaSithu&theme=midnight-purple&hide_border=true" alt="My Trophy" /></a> </p>
 
 
