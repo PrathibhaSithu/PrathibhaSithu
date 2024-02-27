@@ -15,9 +15,9 @@ I'm Prathibha Sithumini. I am a Student 👩‍🎓 , An Intern on UI/ UX design
 - 🌱 I’m currently study at SLIIT University  
 - 📫 How to reach me: [Portfolio](https://prathibhasithu.github.io/)
 
-  <br>
-
   <img align="right" src="giphy.gif" width="400"/>
+
+  <br>
 
 # Skills :octocat:
   - 🖌️Illustrator<br>
