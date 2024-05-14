@@ -19,10 +19,13 @@ I'm Prathibha Sithumini. I am a Student 👩‍🎓 , An Intern on UI/ UX design
 
 # Skills :octocat:
   - 🖌️Illustrator<br>
+  - 🖌️Figma<br>
   - 💻 HTML<br>
   - 💻 CSS<br>
-  - 🖌️Figma<br>
+  - 💻 React<br>
+  - 💻 SpringBoot<br>
   - 📱 Kotlin<br>
+  - 📱 Java<br>
   - 📱 Flutter<br>
   - 💻 JS<br>
   - 💻 MERN Stack<br>
