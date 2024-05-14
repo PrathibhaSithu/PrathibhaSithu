@@ -15,6 +15,8 @@ I'm Prathibha Sithumini. I am a Student 👩‍🎓 , An Intern on UI/ UX design
 - 🌱 I’m currently study at SLIIT University  
 - 📫 How to reach me: [Portfolio](https://prathibhasithu.github.io/)
 
+ <br>
+
   <img align="right" src="giphy.gif" width="400"/>
 
 # Skills :octocat:
@@ -29,7 +31,7 @@ I'm Prathibha Sithumini. I am a Student 👩‍🎓 , An Intern on UI/ UX design
   - 📱 Flutter<br>
   - 💻 JS<br>
   - 💻 MERN Stack<br>
-</li>
+
 
 # :stuck_out_tongue: Let's Get in touch :coffee:
 - My virtul Designs [Dribbble](https://dribbble.com/Prathibha22).
