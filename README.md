@@ -24,6 +24,8 @@ I'm Prathibha Sithumini. I am a Student 👩‍🎓 , An Intern on UI/ UX design
   - 🖌️Figma<br>
   - 💻 HTML<br>
   - 💻 CSS<br>
+  - 💻 Spring Boot<br>
+  - 💻 Vue Js<br>
   - 💻 React<br>
   - 💻 SpringBoot<br>
   - 📱 Kotlin<br>
