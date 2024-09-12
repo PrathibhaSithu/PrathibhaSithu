@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=9100F7&vCenter=true&random=false&width=435&lines=Warmly+Welcome........!+%F0%9F%91%8B+" alt="Typing SVG" /></a>
 
 <h1 align = "center"> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Prathibha 😄😙 </h1>
-<h2 align = "center"> I am UI / UX Designer and Front End Developer :octocat:</h2>
+<h2 align = "center"> I am System Software Developer :octocat:</h2>
 
 # About me :octocat:
 
