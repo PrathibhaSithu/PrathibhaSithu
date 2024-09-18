@@ -9,7 +9,7 @@
 
 # About me :octocat:
 
-I'm Prathibha Sithumini. I am a Student 👩‍🎓 , An Intern on UI/ UX designing 🧑‍🎨 and a mobile application designer and developer :heart:. And also a Coffee lover :coffee:. 
+I'm Prathibha Sithumini. I am a Student at SLIIT👩‍🎓 , System Software Developer intern and a Mobile Application Designer and Developer :heart:. A Coffee lover :coffee:. 
 <br>
 
 - 🌱 I’m currently study at SLIIT University  
