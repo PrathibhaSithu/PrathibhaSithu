@@ -47,7 +47,7 @@ I'm Prathibha Sithumini. I am a Student at SLIIT👩‍🎓 , System Software De
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ![Prathibha's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathibhaSithu&theme=midnight-purple&show_icons=true)
 
-# My Trophies 🏆
+# 🏆 My Trophies 🏆
 <hr/>
   <p align="left"> 
    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PrathibhaSithu&theme=juicyfresh&margin-w=15&margin-h=15" alt="🏆" /></a> 
