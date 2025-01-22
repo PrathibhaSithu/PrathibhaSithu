@@ -24,6 +24,7 @@ I'm Prathibha Sithumini. I am a Student at SLIIT👩‍🎓 , System Software De
   - 🖌️Figma<br>
   - 💻 HTML<br>
   - 💻 CSS<br>
+  - 💻 Tailwind Css<br>
   - 💻 Spring Boot<br>
   - 💻 Vue Js<br>
   - 💻 React<br>
