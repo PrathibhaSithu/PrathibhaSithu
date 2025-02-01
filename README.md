@@ -56,8 +56,8 @@ I'm Prathibha Sithumini. I am a Student at SLIIT👩‍🎓 , System Software De
       <br>Tailwind CSS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
