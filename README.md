@@ -137,3 +137,9 @@ I'm Prathibha Sithumini. I am a Student at SLIIT👩‍🎓 , System Software De
    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PrathibhaSithu&theme=juicyfresh&margin-w=15&margin-h=15" alt="🏆" /></a> 
   </p>
 
+  <details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=PrathibhaSithu&label=PROFILE+VIEWS&style=for-the-badge&color=white">
+
+</details>
