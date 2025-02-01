@@ -98,23 +98,6 @@ I'm Prathibha Sithumini. I am a Student at SLIIT👩‍🎓 , System Software De
   </tr>
 </table>
 
-
-  - 🖌️Illustrator<br>
-  - 🖌️Figma<br>
-  - 💻 HTML<br>
-  - 💻 CSS<br>
-  - 💻 Tailwind Css<br>
-  - 💻 Spring Boot<br>
-  - 💻 Vue Js<br>
-  - 💻 React<br>
-  - 💻 SpringBoot<br>
-  - 📱 Kotlin<br>
-  - 📱 Java<br>
-  - 📱 Flutter<br>
-  - 💻 JS<br>
-  - 💻 MERN Stack<br>
-
-
 # :stuck_out_tongue: Let's Get in touch :coffee:
 - My virtul Designs [Dribbble](https://dribbble.com/Prathibha22).
 - Connect with me on [Linkedin](https://www.linkedin.com/in/prathibha-sithumini-74b427214/).
