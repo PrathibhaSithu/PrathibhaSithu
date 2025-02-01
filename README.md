@@ -41,7 +41,7 @@ I'm Prathibha Sithumini. I am a Student at SLIIT👩‍🎓 , System Software De
 - Connect with me on [Linkedin](https://www.linkedin.com/in/prathibha-sithumini-74b427214/).
 - Hire me in Fiver [Fiver](http://www.fiverr.com/s/l1KAqR)
 
-# :fire: My Stats 
+# :fire: My Streaks 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrathibhaSithu&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathibhaSithu&layout=compact&theme=midnight-purple)
