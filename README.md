@@ -45,8 +45,8 @@ I'm Prathibha Sithumini. I am a Student at SLIIT👩‍🎓 , System Software De
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       <br>React
     </td>
-  </tr>
-  <tr>
+  <!-- </tr>
+  <tr> -->
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
