@@ -140,6 +140,5 @@ I'm Prathibha Sithumini. I am a Student at SLIIT👩‍🎓 , System Software De
  
 # Profile Views 👁️
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=PrathibhaSithu&label=PROFILE+VIEWS&style=for-the-badge&&theme=midnight-purple">
-
+  <img src="https://komarev.com/ghpvc/?username=PrathibhaSithu&label=PROFILE+VIEWS&style=for-the-badge&color=4B0082">
 
