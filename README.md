@@ -59,6 +59,10 @@ I'm Prathibha Sithumini. I am a Student at SLIIT👩‍🎓 , System Software De
         <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Rest API
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -77,10 +81,6 @@ I'm Prathibha Sithumini. I am a Student at SLIIT👩‍🎓 , System Software De
         <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
       <br>Dart
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
-      <br>Spring Boot
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -97,6 +97,10 @@ I'm Prathibha Sithumini. I am a Student at SLIIT👩‍🎓 , System Software De
     </td> -->
  </tr>
   <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
+      <br>Spring Boot
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
