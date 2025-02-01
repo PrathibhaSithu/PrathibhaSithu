@@ -7,7 +7,6 @@
 
 <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=9100F7&vCenter=true&random=false&width=435&lines=Warmly+Welcome........!+%F0%9F%91%8B+" alt="Typing SVG" /></a> -->
-
 <h1 align = "center"> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Prathibha 😄😙 </h1>
 <h2 align = "center"> I am System Software Developer :octocat:</h2>
 
@@ -21,9 +20,9 @@
 
 <br>
 
-- 📫 How to reach me: [Portfolio](https://prathibhasithu.github.io/)
+### 📫 How to reach me: [Portfolio](https://prathibhasithu.github.io/)
 
- <br>
+<br>
 
 # Skills :octocat:
 
@@ -40,13 +39,13 @@
       <br>Figma
     </td>
   </tr>
- <tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
+        <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="48" height="48" alt="Vue.js" />
       <br>Vue.js
     </td>
     <td align="center" width="96">
@@ -64,7 +63,7 @@
       <br>Tailwind CSS
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
     <td align="center" width="96">
@@ -92,18 +91,22 @@
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="65" height="65" alt="GitHub" />
       <br>Github
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="48" height="48" alt="Git" />
+      <br>VS Code
+    </td>    
     <!-- <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
       <br>GitLab
     </td> -->
- </tr>
+  </tr>
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
@@ -157,4 +160,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
 
