@@ -19,8 +19,6 @@ I'm Prathibha Sithumini. I am a Student at SLIIT👩‍🎓 , System Software De
 
 # Skills :octocat:
 
-## My Favorite Tools and Technologies ⚙️
-
 > Tools and technologies that I have worked with and am interested in
 
 <table>
@@ -32,6 +30,11 @@ I'm Prathibha Sithumini. I am a Student at SLIIT👩‍🎓 , System Software De
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
       <br>Figma
+    </td>
+   </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>Github
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
