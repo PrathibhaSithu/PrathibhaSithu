@@ -17,8 +17,6 @@ I'm Prathibha Sithumini. I am a Student at SLIIT👩‍🎓 , System Software De
 
  <br>
 
-  <img align="right" src="giphy.gif" width="400"/>
-
 # Skills :octocat:
 
 ## My Favorite Tools and Technologies ⚙️
