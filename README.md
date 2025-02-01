@@ -19,7 +19,7 @@
 
 ### 🌱 I am an undergraduate student at **SLIIT** with a passion for software development. Currently, I am working as an **Intern System Software Developer** at the **Ministry of Finance** since August 2024.  
 
-### I enjoy working with modern technologies and continuously expanding my knowledge in *front End development, UI / UX Designing *.  
+### I enjoy working with modern technologies and continuously expanding my knowledge in **front End development, UI / UX Designing**.  
 
 ### 🚀 Always eager to learn and collaborate on exciting projects!  
 
