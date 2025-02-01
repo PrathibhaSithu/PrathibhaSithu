@@ -33,18 +33,18 @@ I'm Prathibha Sithumini. I am a Student at SLIIT👩‍🎓 , System Software De
     </td>
   </tr>
  <tr>
-       <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
     </td>
-  <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-    <td align="center"  width="96">
+    <!-- <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
       <br>GitLab
-    </td>
+    </td> -->
  </tr>
  <tr>
     <td align="center" width="96">
@@ -58,6 +58,10 @@ I'm Prathibha Sithumini. I am a Student at SLIIT👩‍🎓 , System Software De
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
       <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
@@ -88,10 +92,6 @@ I'm Prathibha Sithumini. I am a Student at SLIIT👩‍🎓 , System Software De
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
       <br>Dart
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
     </td>
   </tr>
   <tr>
