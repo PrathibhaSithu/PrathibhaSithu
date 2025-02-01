@@ -75,6 +75,10 @@ I'm Prathibha Sithumini. I am a Student at SLIIT👩‍🎓 , System Software De
       <br>Flutter
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
+      <br>Dart
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
