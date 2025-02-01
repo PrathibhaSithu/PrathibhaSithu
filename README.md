@@ -18,7 +18,6 @@
 
 ### 🚀 Always eager to learn and collaborate on exciting projects!  
 
-<br>
 
 ### 📫 How to reach me: [Portfolio](https://prathibhasithu.github.io/)
 
@@ -111,7 +110,7 @@
       <br>Spring Boot
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
@@ -158,6 +157,8 @@
 # Profile Views 👁️
   <br/>
   <img src="https://komarev.com/ghpvc/?username=PrathibhaSithu&label=PROFILE+VIEWS&style=for-the-badge&color=4B0082">
+
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="1000">
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
