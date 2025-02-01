@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcoe.....!!&height=100&section=header"/>
+</p>
+
 <img src ="readmeimg.png">
 <hr/>
 
