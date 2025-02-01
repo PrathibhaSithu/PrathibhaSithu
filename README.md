@@ -106,6 +106,10 @@ I'm Prathibha Sithumini. I am a Student at SLIIT👩‍🎓 , System Software De
       <br>MongoDB
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
       <br>Express.js
     </td>
