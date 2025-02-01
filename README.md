@@ -3,12 +3,16 @@
 </p>
 
 <img src ="readmeimg.png">
-<hr/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=9100F7&vCenter=true&random=false&width=435&lines=Warmly+Welcome........!+%F0%9F%91%8B+" alt="Typing SVG" /></a> -->
 <h1 align = "center"> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Prathibha 😄😙 </h1>
 <h2 align = "center"> I am System Software Developer :octocat:</h2>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</p>
 
 # About me :octocat: 
 
@@ -17,7 +21,6 @@
 ### I enjoy working with modern technologies and continuously expanding my knowledge in **front End development, UI Designing **.  
 
 ### 🚀 Always eager to learn and collaborate on exciting projects!  
-
 
 ### 📫 How to reach me: [Portfolio](https://prathibhasithu.github.io/)
 
@@ -152,16 +155,14 @@
   <p align="left"> 
    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PrathibhaSithu&theme=juicyfresh&margin-w=15&margin-h=15" alt="🏆" /></a> 
   </p>
-
  
 # Profile Views 👁️
   <br/>
   <img src="https://komarev.com/ghpvc/?username=PrathibhaSithu&label=PROFILE+VIEWS&style=for-the-badge&color=4B0082">
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="800">
 </p>
 
 
