@@ -150,3 +150,7 @@
   <br/>
   <img src="https://komarev.com/ghpvc/?username=PrathibhaSithu&label=PROFILE+VIEWS&style=for-the-badge&color=4B0082">
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
