@@ -143,7 +143,7 @@
 # :stuck_out_tongue: Let's Get in touch :coffee:
 - My virtul Designs [Dribbble](https://dribbble.com/Prathibha22).
 - Connect with me on [Linkedin](https://www.linkedin.com/in/prathibha-sithumini-74b427214/).
-- Hire me in Fiver [Fiver](http://www.fiverr.com/s/l1KAqR)
+<!-- - Hire me in Fiver [Fiver](http://www.fiverr.com/s/l1KAqR) -->
 
 # :fire: My Streaks 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrathibhaSithu&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
@@ -163,7 +163,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="800">
+  <!-- <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="800"> -->
 </p>
 
 
