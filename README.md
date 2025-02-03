@@ -34,16 +34,6 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=illustrator" width="48" height="48" alt="Illustrator" />
-      <br>Illustrator
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
         <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
@@ -103,6 +93,16 @@
         <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="48" height="48" alt="Git" />
       <br>VS Code
     </td>    
+    <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=illustrator" width="48" height="48" alt="Illustrator" />
+      <br>Illustrator
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+  </tr>
     <!-- <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
       <br>GitLab
