@@ -7,7 +7,8 @@
 
 <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=9100F7&vCenter=true&random=false&width=435&lines=Warmly+Welcome........!+%F0%9F%91%8B+" alt="Typing SVG" /></a> -->
-<h1 align = "center"> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Prathibha 😄😙 </h1>
+<h1 align = "center"> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src="https://media.giphy.com/media/TmngSmlDjzJfO/giphy.gif?cid=790b7611k96jxbvvb92uequfdjlxyh1bc14y7lh3dmd2lwor&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50px"> 
+  <br/>I am Prathibha Sithumini 😄😙 </h1>
 <h2 align = "center"> I am System Software Developer :octocat:</h2>
 
 <p align="center">
