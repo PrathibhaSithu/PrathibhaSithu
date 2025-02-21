@@ -18,7 +18,7 @@
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-# About me :octocat: 
+# About me <img src="https://media.giphy.com/media/0vTOscboHgOyBSuK4r/giphy.gif" width="50px"> 
 
 ### 🌱 I am an undergraduate student at **SLIIT** with a passion for software development. Currently, I am working as an **Intern System Software Developer** at the **Ministry of Finance** since August 2024.  
 
