@@ -30,7 +30,7 @@
 
 <br>
 
-# Skills :octocat:
+# Skills <img src="https://media.giphy.com/media/jrdgDVFrcgJpNlonWO/giphy.gif" width="50px">
 
 > Tools and technologies that I have worked with and am interested in
 
