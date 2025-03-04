@@ -22,7 +22,7 @@
 
 ### 🌱 I am an undergraduate student at **SLIIT** with a passion for software development. Currently, I am working as an **Intern System Software Developer** at the **Ministry of Finance** since August 2024.  
 
-<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/rz3O9KrvSwr2uDMTps/200w.gif?cid=82a1493bepg455vjja7osg6aghskrkhen5dgmqbelttfg3yv&rid=200w.gif&ct=s">
+<img align="right" width="300" src="https://media0.giphy.com/media/rz3O9KrvSwr2uDMTps/200w.gif?cid=82a1493bepg455vjja7osg6aghskrkhen5dgmqbelttfg3yv&rid=200w.gif&ct=s">
 
 ### I enjoy working with modern technologies and continuously expanding my knowledge in **front End development, UI / UX Designing**.  
 
