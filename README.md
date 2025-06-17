@@ -28,7 +28,7 @@
 
 ### 🚀 Always eager to learn and collaborate on exciting projects!  
 
-### 📫 How to reach me: [Portfolio](https://prathibhasithu.github.io/)
+### 📫 How to reach me: [Portfolio](https://prathibhasithu.github.io/PrathibhaS-MyPortfolio/)
 
 <br>
 
