@@ -59,11 +59,11 @@
       <br>Tailwind CSS
     </td>
     <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="icon" width="65" height="65" />
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="js" width="65" height="65" />
       <br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="48" height="48" alt="python" />
       <br>Python
     </td>
     <td align="center" width="96">
