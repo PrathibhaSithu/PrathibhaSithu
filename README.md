@@ -20,7 +20,7 @@
 
 # About me <img src="https://media.giphy.com/media/0vTOscboHgOyBSuK4r/giphy.gif" width="50px"> 
 
-### 🌱 I am an undergraduate student at **SLIIT** with a passion for software development. Currently, I am working as an **Intern Frontend Designer and Developer** at the **Ministry of Finance** since August 2024.  
+### 🌱 I am an graduate student at **SLIIT** and a dedicated Frontend Developer 1+ year skilled in React.js, Vue.js, HTML, CSS, and Tailwind CSS, experienced in microservices architecture. AWS & Azure certified, passionate about performance, problem-solving, and creating seamless, scalable UI/UX experiences.
 
 <!-- <img align="right" width="300" src="https://media0.giphy.com/media/rz3O9KrvSwr2uDMTps/200w.gif?cid=82a1493bepg455vjja7osg6aghskrkhen5dgmqbelttfg3yv&rid=200w.gif&ct=s"> -->
 
