@@ -11,7 +11,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=9100F7&vCenter=true&random=false&width=435&lines=Warmly+Welcome........!+%F0%9F%91%8B+" alt="Typing SVG" /></a> -->
 <h1 align = "center"> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src="https://media.giphy.com/media/TmngSmlDjzJfO/giphy.gif?cid=790b7611k96jxbvvb92uequfdjlxyh1bc14y7lh3dmd2lwor&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50px"> 
   <br/><img src="https://media.giphy.com/media/wJBYx2Yh84XS4sTzmz/giphy.gif" width="50px"> I am Prathibha Sithumini <img src="https://media.giphy.com/media/wJBYx2Yh84XS4sTzmz/giphy.gif" width="50px"> </h1> 
-<h2 align = "center"> I am System Software Developer :octocat:</h2>
+<h2 align = "center"> I am Senior Analyst :octocat:</h2>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
